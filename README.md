@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 
 <!--
 **limmiseon/limmiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
