@@ -1,5 +1,10 @@
-### Hi there 👋
-📚 우와
+### 📚 skill set 📚
+<img src="https://img.shields.io/badge/C++-00599C?
+          style=flat
+          &logo=C++
+          &logoColor=white"/>
+
+
 <!--
 **limmiseon/limmiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
