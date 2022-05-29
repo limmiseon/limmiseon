@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miseon%20Archive&fontSize=70)
 <h3 align="center"><b>📚 What i`m studying is... 📚</b></h3></br>
-<p align="center">
+<div align=center>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
   
-<p align="center">
-![Miseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=limmiseon&show_icons=true&theme=vue)
-</p>
+
+  ![Miseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=limmiseon&show_icons=true&theme=vue)
+</div>
 <!--
 **limmiseon/limmiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
