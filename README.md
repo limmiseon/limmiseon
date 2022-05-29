@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={limmiseon})](https://github.com/{limmiseon}/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limmiseon)](https://github.com/limmiseon/github-readme-stats)
 
 <!--
 **limmiseon/limmiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
