@@ -1,7 +1,7 @@
 <h3 align="center"><b>📚 skill set</b></h3></br>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-#7DF1EC?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-7DF1EC?style=flat&logo=JavaScript&logoColor=white"/>
 
 <!--
 **limmiseon/limmiseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
