@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miseon%20Archive&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Miseon%20render&fontSize=90)
 <h3 align="center"><b>📚 What i`m studying is... 📚</b></h3></br>
 <div align=center>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
